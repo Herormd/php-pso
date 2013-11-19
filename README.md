@@ -34,4 +34,5 @@ If you have any suggestions on improvements to this project they would be gratef
 
 - Add tests
 - Refactor out responsibility for creating initial positions and velocities
+- Pick and add a license
 
