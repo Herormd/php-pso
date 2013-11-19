@@ -1,0 +1,13 @@
+{
+    "name": "contrebis/pso",
+    "description": "Experimental Particle Swarm Optimisation",
+    "authors": [
+        {
+            "name": "Robert Churchill",
+            "email": "contact@robertchurchill.co.uk"
+        }
+    ],
+    "require": {
+
+    }
+}
